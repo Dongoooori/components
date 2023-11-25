@@ -4,8 +4,8 @@ import * as AutoKana from 'vanilla-autokana';
 
 
 const Autokana = () => {
-    // const personNameRef = useRef(null);
-    // const personNameKanaRef = useRef(null);
+    const personNameRef = useRef(null);
+    const personNameKanaRef = useRef(null);
 
     console.log("test1") 
     console.log("test2")   
