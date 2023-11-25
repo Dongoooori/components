@@ -8,7 +8,7 @@ const MyDate = () => {
     const [date, setDate] = useState("");
     const [prevLen, setPrevLen] = useState("");
     const [isOpen, setIsOpen] = useState(false);
-    // const dateRef = useRef(date);
+    const dateRef = useRef(date);
 
     const handleClick = () => {
         setIsOpen(true);
