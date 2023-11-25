@@ -19,7 +19,7 @@ const Images = () => {
         setImageTrigger(Date.now());
         setImage(null)
     }
-
+console.log()
     return (
         <div>
             <div style={{ 
