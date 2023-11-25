@@ -7,7 +7,8 @@ const Autokana = () => {
     // const personNameRef = useRef(null);
     // const personNameKanaRef = useRef(null);
 
-    console.log("test1")    
+    console.log("test1") 
+    console.log("test2")   
     useEffect(() => {
         // if (personNameRef.current && personNameKanaRef.current) {
             AutoKana.bind("#personName", "#personNameKana", { katakana: true });
