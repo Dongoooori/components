@@ -20,7 +20,6 @@ const Images = () => {
         setImage(null)
     }
 
-    console.log("test1")
     return (
         <div>
             <div style={{ 
