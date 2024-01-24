@@ -22,6 +22,9 @@ export default function ColorSelect2() {
     const hStepsRef = useRef(null);
     const lStepsRef = useRef(null);
 
+    console.log("klljndslfknlknsdf")
+    console.log("lknlkmkkfe")
+
     const generatePalette = (color) => {
         const container = containerRef.current;
         const start = startRef.current;
