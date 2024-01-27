@@ -66,6 +66,11 @@ export default function ColorSelect() {
     console.log("lkmmm")
     console.log("lkmmm")
     
+    useEffect(() => {
+        // practice
+    },[])
+
+
 
   return (
     <>

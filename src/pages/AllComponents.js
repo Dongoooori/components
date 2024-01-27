@@ -13,6 +13,9 @@ import ColorPicker6 from '../components/colorPicker6'
 export default function AllComponents() {
   // thank you
   // sure
+
+  // why
+  // not
   return (
     <div>
         <Autokana />
