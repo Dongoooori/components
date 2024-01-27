@@ -59,6 +59,9 @@ export default function ColorSelect() {
 
     console.log("rebase practice")
 
+    console.log("lkmmm")
+    console.log("lkmmm")
+    
 
   return (
     <>
