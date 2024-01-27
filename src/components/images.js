@@ -19,11 +19,17 @@ const Images = () => {
         setImageTrigger(Date.now());
         setImage(null)
     }
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
+
+    const handleSearch = () => {
+        return null;
+    }
+
+    console.log("test")
+    console.log("test")
+    console.log("test")
+    console.log("test")
+    console.log("test")
+    
 
     return (
         <div>
