@@ -20,6 +20,7 @@ const Query = () => {
         };
     }, []);
 
+    const [test, setTest] = useState(false);
 
     return (
         <>
