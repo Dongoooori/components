@@ -8,6 +8,10 @@ const Autokana = () => {
         //
         // return thank you
         // yes
+        // no
+        // rebase test
+        // rebase practice
+        // how?
     },[])
 
     console.log("test")
