@@ -57,6 +57,8 @@ export default function ColorSelect() {
         }
     },[colorSelect])
 
+    console.log("rebase practice")
+
 
   return (
     <>
