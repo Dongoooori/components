@@ -9,6 +9,7 @@ const ColorPicker6 = () => {
     setColor(newColor.hex);
     setShowPicker(false); // 컬러 선택 후 컬러 피커 숨기기
   };
+  console.log("tlklken")
 
   return (
     <div style={{ padding: '20px' }}>

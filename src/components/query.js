@@ -3,7 +3,6 @@ import { Button } from '@mui/material';
 
 const Query = () => {
     const [message, setMessage] = useState('');
-    const [search, setSearch] = useState("");
 
     useEffect(() => {
         const button = document.getElementById('myButton');
