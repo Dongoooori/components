@@ -15,8 +15,6 @@ export default function AllComponents() {
         <Query />
         <ColorSelect1 />
         <ColorSelect2 />
-        {/* <ColorPickerPalette /> */}
-        {/* <ColorPickerPalette2 /> */}
         <ColorPicker5 />
         <ColorPicker6 />
     </div>
