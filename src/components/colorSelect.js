@@ -5,10 +5,6 @@ import React, { useEffect, useState } from 'react'
 export default function ColorSelect() {
     const [colorSelect, setColorSelect] = useState(false);
 
-    const handleSearch = () => {
-        return null;
-    }
-
     const pickr = Pickr.create({
         el: '.color-picker',
         theme: 'classic', // or 'monolith', or 'nano'
