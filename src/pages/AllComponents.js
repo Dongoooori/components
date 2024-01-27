@@ -7,10 +7,10 @@ import ColorSelect from '../components/colorSelect'
 
 export default function AllComponents() {
   // thank you
+  // sure
   return (
     <div>
         <Autokana />
-        <MyDate />
         <Images />
         <Query />
         <ColorSelect />
