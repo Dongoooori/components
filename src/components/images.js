@@ -32,6 +32,7 @@ const Images = () => {
     },[])
 
     console.log("yes,thank you")
+    console.log("why not?")
 
     return (
         <div>

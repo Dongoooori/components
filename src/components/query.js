@@ -20,6 +20,8 @@ const Query = () => {
         };
     }, []);
 
+    console.log("lkmnnn")
+
     return (
         <>
             <Button id="myButton">클릭</Button>
