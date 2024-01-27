@@ -1,11 +1,7 @@
 import { Box, Button } from "@mui/material";
 import { useEffect, useRef } from "react";
 import ColorPicker from '@thednp/color-picker';
-import { colorStyle } from "./colorPickerStyle";
 
-const gridItemSize = "5.75vw";
-const gridFit = 12; // 이 값은 상황에 따라 조정해야 할 수 있습니다.
-const gridGap = "1vw";
 
 const containerStyle = {
     display: "grid",
