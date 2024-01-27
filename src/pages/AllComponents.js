@@ -7,6 +7,8 @@ import ColorSelect from '../components/colorSelect'
 
 export default function AllComponents() {
   // thank you
+  // why
+  // not
   return (
     <div>
         <Autokana />
