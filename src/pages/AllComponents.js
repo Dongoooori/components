@@ -17,7 +17,6 @@ export default function AllComponents() {
   return (
     <div>
         <Autokana />
-        <MyDate />
         <Images />
         <Query />
         <ColorSelect1 />
