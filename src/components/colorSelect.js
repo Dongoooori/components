@@ -63,10 +63,6 @@ export default function ColorSelect() {
 
     console.log("rebase practice")
 
-    useEffect(() => {
-        // practice
-    },[])
-
 
   return (
     <>
