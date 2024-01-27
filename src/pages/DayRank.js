@@ -5,7 +5,7 @@ export default function DayRank() {
       <div>DayRank</div>
       <div>DayRank</div>
       <div>DayRank</div>
-      <div>DayRank</div>
+
     </>
   )
 }
