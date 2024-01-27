@@ -5,6 +5,20 @@ import * as AutoKana from 'vanilla-autokana';
 const Autokana = () => {
 
     useEffect(() => {
+        //
+        // return thank you
+    },[])
+
+    console.log("test")
+    console.log("dlijienknlfkn")
+    console.log("test")
+    console.log("dlijienknlfkn")
+    console.log("test")
+    console.log("dlijienknlfkn")
+    console.log("test")
+    console.log("dlijienknlfkn")
+ 
+    useEffect(() => {
         // if (personNameRef.current && personNameKanaRef.current) {
             AutoKana.bind("#personName", "#personNameKana", { katakana: true });
         // }
