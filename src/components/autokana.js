@@ -7,6 +7,7 @@ const Autokana = () => {
     useEffect(() => {
         //
         // return thank you
+        // yes
     },[])
 
     console.log("test")
