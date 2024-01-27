@@ -24,47 +24,6 @@ const Images = () => {
         return null;
     }
 
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    
-    useEffect(() => {
-        // rebase practice
-        // commit
-        // push
-    },[])
-
-    console.log("yes,thank you")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("knlenflknl,k,,")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    console.log("dlkfinelknfiiiiilknef")
-    
     useEffect(() => {
         // rebase practice
         // commit
