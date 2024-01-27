@@ -6,6 +6,7 @@ export default function ColorSelect() {
     const [colorSelect, setColorSelect] = useState(false);
     const [test, setTest] = useState(false);
     const [search, setSearch] = useState("");
+    console.log("kkmeee")
 
 
     const pickr = Pickr.create({
