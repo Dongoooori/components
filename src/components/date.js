@@ -9,7 +9,6 @@ const MyDate = () => {
     const [prevLen, setPrevLen] = useState("");
     const [isOpen, setIsOpen] = useState(false);
 
-
     const handleClick = () => {
         setIsOpen(true);
     }
