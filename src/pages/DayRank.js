@@ -1,10 +1,9 @@
-import React from "react"
+import React, { useState } from "react"
 
 export default function DayRank() {
+  const [day, setDay] = useState(new Date());
   return (
     <>
-      <div>DayRank</div>
-      <div></div>
     </>
   )
 }
