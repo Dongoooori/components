@@ -20,10 +20,15 @@ const Images = () => {
         setImage(null)
     }
 
+    console.log("test")
+    console.log("test")
+    console.log("test")
+    console.log("test")
+
+
     const handleSearch = () => {
         return null;
     }
-
 
     useEffect(() => {
         // rebase practice
