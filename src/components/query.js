@@ -20,7 +20,6 @@ const Query = () => {
         };
     }, []);
 
-    console.log("lkmnnn")
 
     return (
         <>
