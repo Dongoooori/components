@@ -10,8 +10,6 @@ export default function ColorPickerPalette2() {
   const [selectedColor, setSelectedColor] = useState('#FFFFFF'); // 기본 색상은 흰색
   console.log(selectedColor)
 
-  console.log(isModalOpen)
-
   useEffect(() => {
     if (!isModalOpen || !paletteRef.current) {
       return;
