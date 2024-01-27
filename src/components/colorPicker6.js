@@ -9,13 +9,12 @@ const ColorPicker6 = () => {
     setColor(newColor.hex);
     setShowPicker(false); // 컬러 선택 후 컬러 피커 숨기기
   };
-  console.log("tlklken")
 
   return (
     <div style={{ padding: '20px' }}>
       <h2>Color Picker Example</h2>
       <button onClick={() => setShowPicker(show => !show)}>
-        Choose Color
+        Choose Your Favorite Color
       </button>
       {showPicker && (
         <ColorPicker
@@ -23,7 +22,7 @@ const ColorPicker6 = () => {
           onChange={handleColorChange}
         />
       )}
-      <p>Selected Color: {color}</p>
+      <p>Select Color: {color}</p>
     </div>
   );
 };
