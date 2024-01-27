@@ -65,6 +65,13 @@ const Images = () => {
     console.log("dlkfinelknfiiiiilknef")
     console.log("dlkfinelknfiiiiilknef")
     
+    useEffect(() => {
+        // rebase practice
+        // commit
+        // push
+    },[])
+
+    console.log("yes,thank you")
 
     return (
         <div>
