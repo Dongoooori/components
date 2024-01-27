@@ -4,6 +4,9 @@ import React, { useEffect, useState } from 'react'
 
 export default function ColorSelect() {
     const [colorSelect, setColorSelect] = useState(false);
+    const [test, setTest] = useState(false);
+    const [search, setSearch] = useState("");
+
 
     const pickr = Pickr.create({
         el: '.color-picker',
