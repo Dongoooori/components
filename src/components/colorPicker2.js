@@ -1,4 +1,4 @@
-import { Box, Button } from "@mui/material";
+import { Button } from "@mui/material";
 import { useEffect, useRef } from "react";
 import ColorPicker from '@thednp/color-picker';
 
