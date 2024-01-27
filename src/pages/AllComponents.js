@@ -6,6 +6,7 @@ import Query from '../components/query'
 import ColorSelect from '../components/colorSelect'
 
 export default function AllComponents() {
+  // thank you
   return (
     <div>
         <Autokana />

@@ -24,12 +24,13 @@ const Images = () => {
         return null;
     }
 
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    console.log("test")
-    
+    useEffect(() => {
+        // rebase practice
+        // commit
+        // push
+    },[])
+
+    console.log("yes,thank you")
 
     return (
         <div>
