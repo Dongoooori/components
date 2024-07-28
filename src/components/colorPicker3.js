@@ -38,6 +38,11 @@ export default function ColorPickerPalette() {
     <div>
       <button onClick={togglePalette}>Toggle Color Palette</button>
       <div ref={paletteRef} />
+      <div>
+        <div>
+          yes
+        </div>
+      </div>
     </div>
   );
 }
