@@ -10,11 +10,6 @@ export default function ColorPicker5() {
         <div className="modal-header">
           <ColorPicker />
         </div>
-        <div>
-          <div>
-            yes
-          </div>
-        </div>
       </Draggable>
     </div>
   );

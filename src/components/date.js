@@ -32,8 +32,6 @@ const MyDate = () => {
         return val;
     };
 
-    console.log("tjlekknken")
-
     // Date計算
     const checkDate = (year, month, date) => {
         let mon = Number(month);
